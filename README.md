@@ -1,0 +1,1 @@
+Essa área eu posso inserir projetos ou exercícios da Trybe. Aqui vai começar a partir do Módulo 4. O meu outro repositório eu fiz de forma desorganizada. Por isso,achei bom começar este novo e deixar organizado.
